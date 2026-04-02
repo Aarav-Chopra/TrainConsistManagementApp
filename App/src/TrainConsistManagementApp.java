@@ -22,7 +22,6 @@ public class TrainConsistManagementApp {
         for (Map.Entry<String, Integer> entry : bogieCapacityMap.entrySet()) {
             System.out.println(entry.getKey() + " -> Capacity: " + entry.getValue());
         }
-
         // Program continues...
     }
 }
